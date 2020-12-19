@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88233260071",
+    "firebase_url": "https://smser-61406.firebaseio.com",
+    "project_id": "smser-61406",
+    "storage_bucket": "smser-61406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88233260071:android:cd029cbe6b7a54de33ca02",
+        "android_client_info": {
+          "package_name": "com.rishabh.dochatsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88233260071-mva4db0ijsdb53gu811mn7f9r6gq8b5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishabh.dochatsms",
+            "certificate_hash": "c675081915bebda8552b1653a55c66c02e9c045d"
+          }
+        },
+        {
+          "client_id": "88233260071-1g9e908hrci4qpvgs9nmoe6ddgf8q20c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_bphiKezgMWZVx08hsDrxQElQQxCOnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88233260071-1g9e908hrci4qpvgs9nmoe6ddgf8q20c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
