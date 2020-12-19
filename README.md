@@ -30,8 +30,8 @@ all clients in realtime, and remains available when your app goes offline.
 
 
 ![chats](https://user-images.githubusercontent.com/48548360/102686483-1db04a00-420e-11eb-920e-f79d05dcde84.jpg)
-![dp](https://user-images.githubusercontent.com/48548360/102686484-1f7a0d80-420e-11eb-9b93-b986ea0b1b25.jpg)
 
+![dp](https://user-images.githubusercontent.com/48548360/102686484-1f7a0d80-420e-11eb-9b93-b986ea0b1b25.jpg)
 
 ![first](https://user-images.githubusercontent.com/48548360/102686489-20ab3a80-420e-11eb-87fa-43e391d91c53.jpg)
 
